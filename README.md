@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/banner.svg" alt="rewind — Record. Scrub. Replay every LLM call." width="100%"/>
+</p>
+
 # rewind
 
 > **Chrome DevTools for AI agents.** Record any agent run. Scrub through every tool call, prompt, and token. Replay from any step with a different model. Local-first, single SQLite file, zero cloud.
